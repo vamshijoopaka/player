@@ -1,0 +1,38 @@
+div.item div{
+	cursor:pointer;
+	width:200px;
+	height:40px;background-color:lightgreen;
+	display:inline-block;
+	text-align:center;
+	margin:5px 8px;
+	line-height:2.1em;
+	padding:10px;
+	background:url("mp3.jpg") no-repeat,url("back.png");
+	background-size:contain;
+	border:2px solid #888888;
+	border-radius:10px;
+}
+audio{
+	top:100px;
+}
+#p{
+	font-weight:700;
+	font-style:italic;
+}
+#audioContainer{
+	box-sizing:border-box;
+	border-radius:9px;
+	position:fixed;bottom:30px;width:70%;
+	padding:10px;	
+	left:15%;
+	bo
+}
+.item div:hover{
+color:lightgreen;
+font-weight:800;
+font-style:italic;
+box-shadow:5px 5px 10px #aaaaaa;
+}
+*{
+
+}
