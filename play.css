@@ -25,7 +25,7 @@ audio{
 #audioContainer{
 	box-sizing:border-box;
 	border-radius:9px;
-	position:fixed;bottom:60px;width:80%;
+	position:fixed;bottom:0px;width:80%;
 	padding:10px;	
 	height:150px;
 	left:10%;
